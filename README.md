@@ -23,5 +23,5 @@ Suppose we do care about the number of arrangements of each set. How many ways c
 gears so that the Blue and Read gear will rotate in the same direction?
 
 **Final Answer:**
-*Order does not matter: 44,958
-*Order does matter (Bonus Question): 2,937,844,727,743,166,753,554,825,216
+* Order does not matter: 44,958
+* Order does matter (Bonus Question): 2,937,844,727,743,166,753,554,825,216

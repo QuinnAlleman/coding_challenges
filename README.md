@@ -1,6 +1,6 @@
 # coding_challenges
 
-Included is an assormtent of various coding challenges from previous competitions or other resources.
+Included is an assortment of various coding challenges from previous competitions or other resources.
 
 ## Rotating Gears Problem with Solution (find_gears.py)
 **Problem Statement:**

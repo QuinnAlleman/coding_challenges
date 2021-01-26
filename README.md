@@ -2,9 +2,7 @@
 
 Included is an assormtent of various coding challenges from previous competitions or other resources.
 
-## Included
-
-### Rotating Gears Problem with Solution
+## Rotating Gears Problem with Solution
 **Problem Statement:**
 A clock smith must convert power between two gears on a giant clock.
 Admittedly, the engineer isn't concerned with efficiency and insists on using other gears to
